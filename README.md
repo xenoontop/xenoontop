@@ -2,7 +2,7 @@
 - 👀 I’m interested in games, programming, cooking, basketball
 - 🌱 I’m currently learning basic js, css, html, and py
 - 💞️ I’m looking to collaborate on basic front websites
-- 📫 How to reach me ambotjudh@gmail.com
+- 📫 How to reach me beldiaethan69@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love lasagna 
 
